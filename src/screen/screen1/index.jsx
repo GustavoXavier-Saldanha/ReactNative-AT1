@@ -34,7 +34,7 @@ export default function Capa() {
             <View style={styles.caixa}>
               
                 <Entypo  name="controller-play" color="white" size={30} />
-                <Text style={styles.txtCaixa}> Episode 1 Watch Now </Text>
+                <Text style={styles.txtCaixa}> Episode 1 Watch Now</Text>
               </View>
          
          </TouchableOpacity>
